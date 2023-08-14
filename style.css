@@ -21,7 +21,8 @@ body{
     flex-direction:column;
     gap:0.938rem;
     background: rgb(130, 130, 244);
-    padding:2.5rem 2.5rem;     
+    padding:2.5rem 2.5rem 2.5rem 2.5rem;   
+      
 }
 h2{
     font-size:2em;
@@ -95,12 +96,12 @@ h2{
         
     }
     h2{
-        font-size:2em;
+        font-size:1.5em;
         letter-spacing: 0.1em;
     }
     .reset{
         padding:10px 15px;
-        font-size:1.5em;
+        font-size:1.2em;
         letter-spacing: 0.1em;
         font-weight: 200;
     }
@@ -116,7 +117,7 @@ h2{
     .item{
         width:4rem;
         height:4rem;
-        font-size:3em;
+        font-size:2.5em;
     }
 } 
 
