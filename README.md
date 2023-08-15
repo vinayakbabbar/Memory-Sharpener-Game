@@ -1,5 +1,5 @@
 # Memory-Sharpener-Game
-Crafted an immersive and visually captivating memory matching game, highlighting my prowess in front-end development and interactive design.
+Crafted an immersive and visually captivating memory matching game, highlighting my skills in front-end development and interactive design.
 
 # Features:- 
 
